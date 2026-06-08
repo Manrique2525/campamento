@@ -1,0 +1,17 @@
+# Laravel
+backend/vendor/
+backend/node_modules/
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+
+# Variables de entorno
+backend/.env
+frontend/.env
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
